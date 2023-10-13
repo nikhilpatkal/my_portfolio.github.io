@@ -1,2 +1,3 @@
 # my_portfolio.github.io
-hosted
+portfolio
+https://nikhilpatkal.github.io/my_portfolio.github.io/
